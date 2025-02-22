@@ -1,7 +1,9 @@
-Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
+半价购买netflix、max、gpt plus账号
+流媒体合租平台GoingBus：
+注册入口：https://goingbus.link/40e7inT
+折扣码：dpsk （九折优惠，只有使用上面链接注册的新用户才有效）
+支持多种支付方式， Visa、MasterCard信用卡， paypal
 
-使用方法：
-
-- 当其他用户给bot发消息，会被转发到bot创建者
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
-- 用户回复 `/block` ,  `/unblock` ,  `/checkblock` 等命令会执行相关指令， **不会** 回复到原消息发送者
+----------------------------------------------------------------------------
+博主自用双栈VPS（ipv4+ipv6），低价外海vps推荐： HostVDS，低至每月1刀。 
+购买详情： https://hostvds.com/?affiliate_uuid=2b9179a7-6900-4636-bed2-182b4db0168e
