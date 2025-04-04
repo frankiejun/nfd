@@ -38,10 +38,5 @@
     ➡️  Hostvds入口: hostvds.com (https://hostvds.com/?affiliate_uuid=2b9179a7-6900-4636-bed2-182b4db0168e)  
 -------------
 
-    💵【GoingBus】半价购买netflix、max、gpt plus账号
-    📺 流媒体合租平台GoingBus：youtube视频介绍 点这里 (https://youtu.be/Ymn8roZvHTc?si=SJA_GgMUh5s8a_w6)
-    ㊙️ 折扣码：dpsk （九折优惠，只有使用上面链接注册的新用户才有效）
-    💳 支持多种支付方式， Visa、MasterCard信用卡， paypal  
-    👥 适合人群: 台湾、香港同胞
-    ➡️ 注册入口：goingbus.link (https://goingbus.link/40e7inT)
+
 
